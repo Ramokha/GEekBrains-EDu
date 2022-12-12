@@ -9,4 +9,4 @@ $replacement = array($title, $year, $head);
 $content = file_get_contents("index3.html");
 $content = str_replace($searches, $replacement, $content);
 
-echo $content;
+echo $content; 

@@ -3,6 +3,7 @@
 	$year = 2018;
 	$head = "Информация обо мне"
 ?>
+
 <!DOCTYPE html>
 <html>
 <head>
